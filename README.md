@@ -1,13 +1,31 @@
-<p><em>Aspiring DevOps Engineer | Cloud Enthusiast | Automation Advocate</em></p>
 
-👋 Hi, I'm Yossief! Welcome to my page!</h2>
-
-  <div align="center">
+<div align="center">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=maaclin&include_all_commits=true&count_private=true&show_icons=true&line_height=20&title_color=2B5BBD&icon_color=1124BB&text_color=A1A1A1&bg_color=0,000000,130F40" alt="GitHub Stats"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs?username=maaclin&show_icons=true&locale=en&layout=compact&theme=chartreuse-dark" alt="Top Languages" />
 </div>
 
 <div align="center">
+  <a href="https://github.com/maaclin/DevOps/tree/main/8.%20AWS/Three%20Tier%20Web%20App">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=maaclin&repo=DevOps&description_lines_count=2" alt="Three Tier Web App"/>
+  </a>
+</div>
+
+<div align="center">
+  <h2>👋 Hi, I'm maaclin!</h2>
+  <p><em>Aspiring DevOps Engineer | Cloud Enthusiast | Automation Advocate</em></p>
+  
+  <h3>🛠️ Tech Stack</h3>
+  <p>
+    <img src="https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazon-aws&logoColor=white" alt="AWS"/>
+    <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" alt="Docker"/>
+    <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white" alt="Kubernetes"/>
+    <img src="https://img.shields.io/badge/Terraform-623CE4?style=flat-square&logo=terraform&logoColor=white" alt="Terraform"/>
+    <img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=github-actions&logoColor=white" alt="GitHub Actions"/>
+    <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python"/>
+    <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" alt="TypeScript"/>
+    <img src="https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black" alt="Linux"/>
+  </p>
+  
   <h3>🚀 Featured Projects</h3>
   
   <a href="https://github.com/maaclin/DevOps/tree/main/8.%20AWS/Three%20Tier%20Web%20App">
@@ -17,7 +35,7 @@
   <a href="https://github.com/maaclin/DevOps/tree/main/6.%20CICD/7%20Day%20CICD%20Challenge">
     <img src="https://img.shields.io/badge/7%20Days%20CI/CD%20Challenge-FF6B35?style=for-the-badge&logo=githubactions&logoColor=white" alt="7 Days CI/CD Challenge"/>
   </a>
-
+  
   <a href="https://github.com/maaclin/DevOps/tree/main/8.%20AWS/Kubernetes">
     <img src="https://img.shields.io/badge/Kubernetes-7B2CBF?style=for-the-badge&logo=kubernetes&logoColor=white" alt="Kubernetes"/>
   </a>
@@ -27,11 +45,38 @@
   </a>
 </div>
 
-<p align="center">
-  <a href="https://www.credly.com/badges/87807bc5-d837-48fe-812f-8267b385d1d9">
-    <img src="https://images.credly.com/size/340x340/images/be8fcaeb-c769-4858-b567-ffaaa73ce8cf/image.png" alt="Microsoft Azure Fundamentals" width="120" height="120"/>
-  </a>
-  <a href="https://www.credly.com/badges/19c3f760-9975-4b42-a53a-56d3f94f8343">
-    <img src="https://images.credly.com/size/680x680/images/ed4be915-68f8-428a-b332-40ded9084ee5/blob" alt="HashiCorp Certified Terraform Associate" width="120" height="120"/>
-  </a>
-</p>
+<div align="center">
+  <h3>📊 GitHub Activity</h3>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=maaclin&theme=dark&hide_border=true" alt="GitHub Streak"/>
+</div>
+
+<div align="center">
+  <h3>🌱 Currently Learning</h3>
+  <p>
+    <img src="https://img.shields.io/badge/Monitoring-Prometheus-E6522C?style=flat-square&logo=prometheus&logoColor=white" alt="Prometheus"/>
+    <img src="https://img.shields.io/badge/Observability-Grafana-F46800?style=flat-square&logo=grafana&logoColor=white" alt="Grafana"/>
+    <img src="https://img.shields.io/badge/GitOps-ArgoCD-EF7B4D?style=flat-square&logo=argo&logoColor=white" alt="ArgoCD"/>
+    <img src="https://img.shields.io/badge/IaC-Ansible-EE0000?style=flat-square&logo=ansible&logoColor=white" alt="Ansible"/>
+  </p>
+</div>
+
+<div align="center">
+  <h3>🏆 Certifications & Goals</h3>
+  <p>
+    <img src="https://img.shields.io/badge/AWS-Solutions_Architect-FF9900?style=flat-square&logo=amazon-aws&logoColor=white" alt="AWS Solutions Architect"/>
+    <img src="https://img.shields.io/badge/CKA-Certified_Kubernetes_Administrator-326CE5?style=flat-square&logo=kubernetes&logoColor=white" alt="CKA"/>
+    <img src="https://img.shields.io/badge/Terraform-Associate-623CE4?style=flat-square&logo=terraform&logoColor=white" alt="Terraform Associate"/>
+  </p>
+</div>
+
+<div align="center">
+  <h3>📫 Let's Connect</h3>
+  <p>
+    <a href="https://linkedin.com/in/yourprofile">
+      <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+    </a>
+    <a href="mailto:your.email@example.com">
+      <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+    </a>
+  </p>
+</div>
