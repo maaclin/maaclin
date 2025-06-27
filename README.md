@@ -13,4 +13,12 @@
   <a href="https://github.com/maaclin/DevOps/tree/main/6.%20CICD/7%20Day%20CICD%20Challenge">
     <img src="https://img.shields.io/badge/7%20Days%20CI/CD%20Challenge-FF6B35?style=for-the-badge&logo=githubactions&logoColor=white" alt="7 Days CI/CD Challenge"/>
   </a>
+
+  <a href="https://github.com/maaclin/DevOps/tree/main/8.%20AWS/Kubernetes">
+    <img src="https://img.shields.io/badge/Kubernetes-7B2CBF?style=for-the-badge&logo=kubernetes&logoColor=white" alt="Kubernetes"/>
+  </a>
+  
+  <a href="https://github.com/maaclin/DevOps/tree/main/8.%20AWS/VPC">
+    <img src="https://img.shields.io/badge/Networking-06D6A0?style=for-the-badge&logo=amazonec2&logoColor=white" alt="Networking"/>
+  </a>
 </div>
