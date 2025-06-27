@@ -4,12 +4,6 @@
 </div>
 
 <div align="center">
-  <a href="https://github.com/maaclin/DevOps/tree/main/8.%20AWS/Three%20Tier%20Web%20App">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=maaclin&repo=DevOps&description_lines_count=2" alt="Three Tier Web App"/>
-  </a>
-</div>
-
-<div align="center">
   <h3>🚀 Featured Projects</h3>
   
   <a href="https://github.com/maaclin/DevOps/tree/main/8.%20AWS/Three%20Tier%20Web%20App">
