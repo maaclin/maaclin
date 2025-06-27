@@ -1,10 +1,5 @@
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=maaclin&include_all_commits=true&count_private=true&show_icons=true&line_height=20&title_color=2B5BBD&icon_color=1124BB&text_color=A1A1A1&bg_color=0,000000,130F40" alt="GitHub Stats"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs?username=maaclin&show_icons=true&locale=en&layout=compact&theme=chartreuse-dark" alt="Top Languages" />
-</div>
-
-<div align="center">
   <h2>👋 Hi, I'm maaclin!</h2>
   <p><em>Aspiring DevOps Engineer | Cloud Enthusiast | Automation Advocate</em></p>
   
@@ -64,6 +59,7 @@
   </p>
 </div>
 
+<div align="center">
  <h3>🚀 Featured Projects</h3>
   
   <a href="https://github.com/maaclin/DevOps/tree/main/8.%20AWS/Three%20Tier%20Web%20App">
@@ -80,7 +76,8 @@
   
   <a href="https://github.com/maaclin/DevOps/tree/main/8.%20AWS/VPC">
     <img src="https://img.shields.io/badge/Networking-06D6A0?style=for-the-badge&logo=amazonec2&logoColor=white" alt="Networking"/>
-
+</div>
+    
 <div align="center">
   <h3>📫 Let's Connect</h3>
   <p>
