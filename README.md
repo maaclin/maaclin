@@ -21,8 +21,6 @@
     <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white" alt="Kubernetes"/>
     <img src="https://img.shields.io/badge/Terraform-623CE4?style=flat-square&logo=terraform&logoColor=white" alt="Terraform"/>
     <img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=github-actions&logoColor=white" alt="GitHub Actions"/>
-    <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python"/>
-    <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" alt="TypeScript"/>
     <img src="https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black" alt="Linux"/>
   </p>
   
@@ -53,30 +51,27 @@
 <div align="center">
   <h3>🌱 Currently Learning</h3>
   <p>
-    <img src="https://img.shields.io/badge/Monitoring-Prometheus-E6522C?style=flat-square&logo=prometheus&logoColor=white" alt="Prometheus"/>
-    <img src="https://img.shields.io/badge/Observability-Grafana-F46800?style=flat-square&logo=grafana&logoColor=white" alt="Grafana"/>
-    <img src="https://img.shields.io/badge/GitOps-ArgoCD-EF7B4D?style=flat-square&logo=argo&logoColor=white" alt="ArgoCD"/>
-    <img src="https://img.shields.io/badge/IaC-Ansible-EE0000?style=flat-square&logo=ansible&logoColor=white" alt="Ansible"/>
+    <img src="https://img.shields.io/badge/Container_Orchestration-Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white" alt="Kubernetes"/>
+    <img src="https://img.shields.io/badge/Containerization-Docker-2496ED?style=flat-square&logo=docker&logoColor=white" alt="Docker"/>
+    <img src="https://img.shields.io/badge/CI/CD-GitHub_Actions-2088FF?style=flat-square&logo=github-actions&logoColor=white" alt="GitHub Actions"/>
   </p>
 </div>
 
 <div align="center">
   <h3>🏆 Certifications & Goals</h3>
   <p>
-    <img src="https://img.shields.io/badge/AWS-Solutions_Architect-FF9900?style=flat-square&logo=amazon-aws&logoColor=white" alt="AWS Solutions Architect"/>
-    <img src="https://img.shields.io/badge/CKA-Certified_Kubernetes_Administrator-326CE5?style=flat-square&logo=kubernetes&logoColor=white" alt="CKA"/>
-    <img src="https://img.shields.io/badge/Terraform-Associate-623CE4?style=flat-square&logo=terraform&logoColor=white" alt="Terraform Associate"/>
+    <img alt="Static Badge" src="https://img.shields.io/badge/AWS_Solutions_Architect-orange">
+    <img alt="Static Badge" src="https://img.shields.io/badge/Terraform_Associate-green">
+    <img alt="Static Badge" src="https://img.shields.io/badge/Azure_Fundamentals_(AZ900)-green">
   </p>
 </div>
 
 <div align="center">
   <h3>📫 Let's Connect</h3>
   <p>
-    <a href="https://linkedin.com/in/yourprofile">
+    <a href="https://linkedin.com/in/yossief-s">
       <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
     </a>
-    <a href="mailto:your.email@example.com">
-      <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
-    </a>
+    
   </p>
 </div>
