@@ -1,4 +1,5 @@
-  <p><em>Aspiring DevOps Engineer | Cloud Enthusiast | Automation Advocate</em></p>
+<p><em>Aspiring DevOps Engineer | Cloud Enthusiast | Automation Advocate</em></p>
+
 👋 Hi, I'm Yossief! Welcome to my page!</h2>
 
   <div align="center">
