@@ -2,7 +2,7 @@
 <div align="center">
   <h2>👋 Hi, I'm Yossief!</h2>
   
-  <p><em>Aspiring DevOps Engineer | Cloud Enthusiast | Automation Advocate</em></p>
+  <p><em>Aspiring DevOps Engineer | Cloud Enthusiast </em></p>
   
   <h3>🛠️ Tech Stack</h3>
   <p>
