@@ -16,25 +16,22 @@
   
   <h3>🚀 Featured Projects</h3>
   
-  <a href="https://github.com/maaclin/DevOps/tree/main/AWS/Three%20Tier%20Web%20App">
+  <a href="https://github.com/maaclin/DevOps/tree/main/AWS/projects/Three%20Tier%20Web%20App">
     <img src="https://img.shields.io/badge/Three%20Tier%20Web%20App-2B5BBD?style=for-the-badge&logo=aws&logoColor=white" alt="Three Tier Web App"/>
     </a>
     
-  <a href="https://github.com/maaclin/DevOps/tree/main/DOCKER/Node-app">
+  <a href="https://github.com/maaclin/DevOps/tree/main/DOCKER/labs/node-app">
     <img src="https://img.shields.io/badge/Containerized%20Node%20App-2B5BBD?style=for-the-badge&logo=docker&logoColor=white"alt="Containerising A Node App"/>
   </a>
   
-  <a href="https://github.com/maaclin/DevOps/tree/main/CICD/%207%20Day%20CICD%20Challenge">
+  <a href="https://github.com/maaclin/DevOps/tree/main/CICD/projects/%207%20Day%20CICD%20Challenge">
     <img src="https://img.shields.io/badge/7%20Days%20CI/CD%20Challenge-FF6B35?style=for-the-badge&logo=githubactions&logoColor=white" alt="7 Days CI/CD Challenge"/>
   </a>
   
-  <a href="https://github.com/maaclin/DevOps/tree/main/AWS/Kubernetes">
+  <a href="https://github.com/maaclin/DevOps/tree/main/AWS/labs/Kubernetes">
     <img src="https://img.shields.io/badge/Kubernetes-7B2CBF?style=for-the-badge&logo=kubernetes&logoColor=white" alt="Kubernetes"/>
   </a>
   
-  <a href="https://github.com/maaclin/DevOps/tree/main/AWS/VPC">
-    <img src="https://img.shields.io/badge/Networking-06D6A0?style=for-the-badge&logo=amazonec2&logoColor=white" alt="Networking"/>
-  </a>
 </div>
 
 <div align="center">
