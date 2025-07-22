@@ -13,25 +13,30 @@
     <img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=github-actions&logoColor=white" alt="GitHub Actions"/>
     <img src="https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black" alt="Linux"/>
   </p>
-  
   <h3>🚀 Featured Projects</h3>
-  
+
+<div>
   <a href="https://github.com/maaclin/DevOps/tree/main/AWS/projects/Three%20Tier%20Web%20App">
     <img src="https://img.shields.io/badge/Three%20Tier%20Web%20App-2B5BBD?style=for-the-badge&logo=aws&logoColor=white" alt="Three Tier Web App"/>
-    </a>
-    
-  <a href="https://github.com/maaclin/DevOps/tree/main/DOCKER/labs/node-app">
-    <img src="https://img.shields.io/badge/Containerized%20Node%20App-2B5BBD?style=for-the-badge&logo=docker&logoColor=white"alt="Containerising A Node App"/>
+  </a>
+  
+  <a href="https://github.com/maaclin/DevOps/tree/main/DOCKER/projects/project_flask-redis">
+    <img src="https://img.shields.io/badge/Visit%20Counter%20App-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Containerising A Node App"/>
   </a>
   
   <a href="https://github.com/maaclin/DevOps/tree/main/CICD/projects/%207%20Day%20CICD%20Challenge">
     <img src="https://img.shields.io/badge/7%20Days%20CI/CD%20Challenge-FF6B35?style=for-the-badge&logo=githubactions&logoColor=white" alt="7 Days CI/CD Challenge"/>
   </a>
-  
+</div>
+
+<div>
   <a href="https://github.com/maaclin/DevOps/tree/main/AWS/labs/Kubernetes">
     <img src="https://img.shields.io/badge/Kubernetes-7B2CBF?style=for-the-badge&logo=kubernetes&logoColor=white" alt="Kubernetes"/>
   </a>
   
+  <a href="https://github.com/maaclin/DevOps/tree/main/NETWORKING/project-ec2-nginx">
+    <img src="https://img.shields.io/badge/Custom%20Domain%20w/%20Route53-37475a?style=for-the-badge&logo=icloud&logoColor=white" alt="Custom Domain w/ Route53"/>
+  </a>
 </div>
 
 <div align="center">
