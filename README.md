@@ -3,7 +3,6 @@
   <h2>👋 Hi, I'm Yossief!</h2>
   
   <p><em>Aspiring DevOps Engineer | Cloud Enthusiast </em></p>
-  
   <h3>🛠️ Tech Stack</h3>
   <p>
     <img src="https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazon-aws&logoColor=white" alt="AWS"/>
@@ -21,7 +20,7 @@
   </a>
   
   <a href="https://github.com/maaclin/DevOps/tree/main/DOCKER/projects/project_flask-redis">
-    <img src="https://img.shields.io/badge/Visit%20Counter%20App-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Containerising A Node App"/>
+    <img src="https://img.shields.io/badge/Visitor%20Counter%20App-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Containerising A Node App"/>
   </a>
   
   <a href="https://github.com/maaclin/DevOps/tree/main/CICD/projects/%207%20Day%20CICD%20Challenge">
@@ -36,6 +35,10 @@
   
   <a href="https://github.com/maaclin/DevOps/tree/main/NETWORKING/project-ec2-nginx">
     <img src="https://img.shields.io/badge/Custom%20Domain%20w/%20Route53-37475a?style=for-the-badge&logo=icloud&logoColor=white" alt="Custom Domain w/ Route53"/>
+  </a>
+
+  <a href="https://github.com/maaclin/DevOps/tree/main/TERRAFORM/project-wordpress">
+    <img src="https://img.shields.io/badge/Wordpress%20Deployed%20w/%20Terraform-844FBA?style=for-the-badge&logo=terraform&logoColor=white" alt="wordpress terraform"/>
   </a>
 </div>
 
