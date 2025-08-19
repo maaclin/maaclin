@@ -15,32 +15,21 @@
   <h3>🚀 Featured Projects</h3>
 
 <div>
-  <a href="https://github.com/maaclin/DevOps/tree/main/AWS/projects/Three%20Tier%20Web%20App">
-    <img src="https://img.shields.io/badge/Three%20Tier%20Web%20App-2B5BBD?style=for-the-badge&logo=aws&logoColor=white" alt="Three Tier Web App"/>
-  </a>
-  
-  <a href="https://github.com/maaclin/DevOps/tree/main/DOCKER/projects/project_flask-redis">
-    <img src="https://img.shields.io/badge/Visitor%20Counter%20App-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Containerising A Node App"/>
-  </a>
-  
-  <a href="https://github.com/maaclin/DevOps/tree/main/CICD/projects/%207%20Day%20CICD%20Challenge">
-    <img src="https://img.shields.io/badge/7%20Days%20CI/CD%20Challenge-FF6B35?style=for-the-badge&logo=githubactions&logoColor=white" alt="7 Days CI/CD Challenge"/>
-  </a>
-</div>
-
 <div>
-  <a href="https://github.com/maaclin/DevOps/tree/main/AWS/labs/Kubernetes">
-    <img src="https://img.shields.io/badge/Kubernetes-7B2CBF?style=for-the-badge&logo=kubernetes&logoColor=white" alt="Kubernetes"/>
+  <a href="https://github.com/maaclin/project-eks_multi_app">
+    <img src="https://img.shields.io/badge/EKS--Helm--ArgoCD%20Deployment-FF9900?style=for-the-badge&logo=kubernetes&logoColor=white" alt="EKS Helm ArgoCD Deployment"/>
   </a>
-  
-  <a href="https://github.com/maaclin/DevOps/tree/main/NETWORKING/project-ec2-nginx">
-    <img src="https://img.shields.io/badge/Custom%20Domain%20w/%20Route53-37475a?style=for-the-badge&logo=icloud&logoColor=white" alt="Custom Domain w/ Route53"/>
+  <a href="https://github.com/maaclin/project-AWS-ECS-Fargate-CD">
+    <img src="https://img.shields.io/badge/Threat%20Modelling%20ECS%20Deployment-232F3E?style=for-the-badge&logo=amazonecs&logoColor=white" alt="Threat Modelling ECS Deployment"/>
   </a>
-
-  <a href="https://github.com/maaclin/DevOps/tree/main/TERRAFORM/project-wordpress">
-    <img src="https://img.shields.io/badge/Wordpress%20Deployed%20w/%20Terraform-844FBA?style=for-the-badge&logo=terraform&logoColor=white" alt="wordpress terraform"/>
+  <a href="https://github.com/maaclin/project-portfolio_website">
+    <img src="https://img.shields.io/badge/S3%20+%20CloudFront%20Portfolio-FF4785?style=for-the-badge&logo=amazons3&logoColor=white" alt="S3 CloudFront Portfolio"/>
+  </a>
+  <a href="https://github.com/maaclin/project-tf_deployment_wordpress">
+    <img src="https://img.shields.io/badge/Terraform%20Wordpress%20Deployment-844FBA?style=for-the-badge&logo=terraform&logoColor=white" alt="Terraform Wordpress Deployment"/>
   </a>
 </div>
+<br/>
 
 <div align="center">
   <h3>📊 GitHub Activity</h3>
@@ -70,8 +59,10 @@
   <a href="https://www.credly.com/badges/87807bc5-d837-48fe-812f-8267b385d1d9">
     <img src="https://images.credly.com/size/340x340/images/be8fcaeb-c769-4858-b567-ffaaa73ce8cf/image.png" alt="Microsoft Azure Fundamentals" width="90" height="90"/>
   </a>
-  <a href="https://www.credly.com/badges/19c3f760-9975-4b42-a53a-56d3f94f8343">
-    <img src="https://images.credly.com/size/680x680/images/ed4be915-68f8-428a-b332-40ded9084ee5/blob" alt="HashiCorp Certified Terraform Associate" width="90" height="90"/>
+    <a href="https://www.credly.com/badges/19c3f760-9975-4b42-a53a-56d3f94f8343">
+  <img src="https://images.credly.com/size/340x340/images/99289602-861e-4929-8277-773e63a2fa6f/image.png" alt="HashiCorp Certified Terraform Associate" width="90" height="90"/>
+</a>
+
   </p>
 </div>
     
