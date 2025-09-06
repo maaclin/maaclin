@@ -1,82 +1,120 @@
-
 <div align="center">
-  <h2>👋 Hi, I'm Yossief!</h2>
+  <h1>👋 Hi, I'm Yossief!</h1>
+  <h3>🚀 DevOps Engineer | Cloud Enthusiast </h3>
   
-  <p><em>Aspiring DevOps Engineer | Cloud Enthusiast </em></p>
-  <h3>🛠️ Tech Stack</h3>
   <p>
-    <img src="https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazon-aws&logoColor=white" alt="AWS"/>
-    <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" alt="Docker"/>
-    <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white" alt="Kubernetes"/>
-    <img src="https://img.shields.io/badge/Terraform-623CE4?style=flat-square&logo=terraform&logoColor=white" alt="Terraform"/>
-    <img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=github-actions&logoColor=white" alt="GitHub Actions"/>
-    <img src="https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black" alt="Linux"/>
-  </p>
-  <h3>🚀 Featured Projects</h3>
-
-<div>
-<div>
-  <a href="https://github.com/maaclin/project-eks_multi_app">
-    <img src="https://img.shields.io/badge/EKS--Helm--ArgoCD%20Deployment-FF9900?style=for-the-badge&logo=kubernetes&logoColor=white" alt="EKS Helm ArgoCD Deployment"/>
+    <img src="https://komarev.com/ghpvc/?username=maaclin&color=brightgreen&style=for-the-badge" alt="Profile Views" />
+    <img src="https://img.shields.io/github/followers/maaclin?style=for-the-badge&color=blue" alt="Followers" />
+    <a href="https://www.linkedin.com/in/yossief-s" target="_blank">
+    <img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
-  <a href="https://github.com/maaclin/project-AWS-ECS-Fargate-CD">
+  </p>
+</div>
+
+---
+
+## 🚀 About Me
+
+- 🌱 Currently mastering **Kubernetes** and advanced container orchestration
+- 🛠️ Passionate about **DevOps**, **Cloud Automation** and **AI Integration**
+- ☁️ Building scalable infrastructure solutions with modern DevOps practices
+- 📚 Always learning and exploring new technologies in the cloud-native ecosystem
+
+---
+
+## 🚀 Featured Projects
+
+<div align="left">
+  <a href="https://github.com/maaclin/project-eks_multi_app" target="_blank">
+    <img src="https://img.shields.io/badge/EKS%20Multi--App%20Deployment-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white" alt="EKS Multi-App Deployment"/>
+  </a>
+  <br/>
+  <em>Production-ready EKS cluster with Helm charts and ArgoCD GitOps</em>
+<br/><br/>
+  <a href="https://github.com/maaclin/project-AWS-ECS-Fargate-CD" target="_blank">
     <img src="https://img.shields.io/badge/Threat%20Modelling%20ECS%20Deployment-232F3E?style=for-the-badge&logo=amazonecs&logoColor=white" alt="Threat Modelling ECS Deployment"/>
   </a>
-  <a href="https://github.com/maaclin/project-portfolio_website">
-    <img src="https://img.shields.io/badge/S3%20+%20CloudFront%20Portfolio-FF4785?style=for-the-badge&logo=amazons3&logoColor=white" alt="S3 CloudFront Portfolio"/>
+  <br/>
+  <em>Secure ECS Fargate deployment with comprehensive threat analysis</em>
+<br/><br/>
+  <a href="https://github.com/maaclin/project-portfolio_website" target="_blank">
+    <img src="https://img.shields.io/badge/S3%20+%20CloudFront%20Portfolio-FF4785?style=for-the-badge&logo=amazons3&logoColor=white" alt="S3 CloudFront Portfolio"/> 
   </a>
-  <a href="https://github.com/maaclin/project-tf_deployment_wordpress">
-    <img src="https://img.shields.io/badge/Terraform%20Wordpress%20Deployment-844FBA?style=for-the-badge&logo=terraform&logoColor=white" alt="Terraform Wordpress Deployment"/>
+  <br/>
+  <em>Project portfolio static website with global CDN distribution</em>
+<br/><br/>
+  <a href="https://github.com/maaclin/project-tf_deployment_wordpress" target="_blank">
+    <img src="https://img.shields.io/badge/Terraform%20WordPress%20Deployment-7B42BC?style=for-the-badge&logo=terraform&logoColor=white" alt="Terraform WordPress Deployment"/>
+  </a>
+  <br/>
+  <em>Infrastructure as Code WordPress deployment on AWS</em>
+</div>
+
+---
+
+## 🛠️ Tech Stack
+
+<div align="left">
+
+### Cloud & IaC
+<p>
+  <img src="https://img.shields.io/badge/-AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white" alt="AWS"/>
+  <img src="https://img.shields.io/badge/-Azure-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white" alt="Azure"/>
+  <img src="https://img.shields.io/badge/-Terraform-7B42BC?style=for-the-badge&logo=terraform&logoColor=white" alt="Terraform"/>
+</p>
+
+### Containerization & Orchestration
+<p>
+  <img src="https://img.shields.io/badge/-Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker"/>
+  <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white" alt="Kubernetes"/>
+  <img src="https://img.shields.io/badge/-Helm-0F1689?style=for-the-badge&logo=helm&logoColor=white" alt="Helm"/>
+</p>
+
+### CI/CD & Automation
+<p>
+  <img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white" alt="GitHub Actions"/>
+  <img src="https://img.shields.io/badge/-ArgoCD-EF7B4D?style=for-the-badge&logo=argo&logoColor=white" alt="ArgoCD"/>
+  <img src="https://img.shields.io/badge/-Prometheus-E6522C?style=for-the-badge&logo=prometheus&logoColor=white" alt="Prometheus"/>
+  <img src="https://img.shields.io/badge/-Grafana-F46800?style=for-the-badge&logo=grafana&logoColor=white" alt="Grafana"/>
+</p>
+
+### System & Tools
+<p>
+  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux"/>
+  <img src="https://img.shields.io/badge/-Bash-4EAA25?style=for-the-badge&logo=gnubash&logoColor=white" alt="Bash"/>
+  <img src="https://img.shields.io/badge/-Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git"/>
+  <img src="https://img.shields.io/badge/-NGINX-009639?style=for-the-badge&logo=nginx&logoColor=white" alt="NGINX"/>
+</p>
+</div>
+
+--- 
+
+## 🏆 Certifications
+
+<div align="left">
+  <a href="https://www.credly.com/badges/87807bc5-d837-48fe-812f-8267b385d1d9" target="_blank">
+    <img src="https://images.credly.com/size/340x340/images/be8fcaeb-c769-4858-b567-ffaaa73ce8cf/image.png" alt="Microsoft Azure Fundamentals" width="150" height="150"/>
+  </a>
+  <a href="https://www.credly.com/badges/19c3f760-9975-4b42-a53a-56d3f94f8343" target="_blank">
+    <img src="https://images.credly.com/size/680x680/images/0dc62494-dc94-469a-83af-e35309f27356/blob" alt="HashiCorp Certified Terraform Associate" width="150" height="150"/>
+  </a>
+  <a href="https://www.credly.com/badges/57a419eb-1d1f-4d40-b0ae-9b3b040376ec" target="_blank">
+    <img src="https://images.credly.com/size/680x680/images/97a95d07-04c3-4afb-952a-6bcf46ddb87e/blob" alt="Linux Foundation Certification" width="150" height="150"/>
   </a>
 </div>
-<br/>
+
+---
+
+## 📊 GitHub Analytics
 
 <div align="center">
-  <h3>📊 GitHub Activity</h3>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=maaclin&theme=dark&hide_border=true" alt="GitHub Streak"/>
-</div>
-<div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=maaclin&include_all_commits=true&count_private=true&show_icons=true&line_height=20&title_color=2B5BBD&icon_color=1124BB&text_color=A1A1A1&bg_color=0,000000,130F40" alt="GitHub Stats"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs?username=maaclin&show_icons=true&locale=en&layout=compact&theme=chartreuse-dark" alt="Top Languages" />
-</div>
-
-<div align="center">
-  <h3>🌱 Currently Learning</h3>
-  <p>
-    <img src="https://img.shields.io/badge/Container_Orchestration-Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white" alt="Kubernetes"/>
-    <img src="https://img.shields.io/badge/Containerization-Docker-2496ED?style=flat-square&logo=docker&logoColor=white" alt="Docker"/>
-    <img src="https://img.shields.io/badge/CI/CD-GitHub_Actions-2088FF?style=flat-square&logo=github-actions&logoColor=white" alt="GitHub Actions"/>
-  </p>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=maaclin&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true" alt="GitHub Stats"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=maaclin&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Top Languages"/>
 </div>
 
 <div align="center">
-  <h3>🏆 Certifications & Goals</h3>
-  <p>
-    <img alt="Static Badge" src="https://img.shields.io/badge/AWS_Solutions_Architect-orange">
-    <img alt="Static Badge" src="https://img.shields.io/badge/Terraform_Associate-green">
-    <img alt="Static Badge" src="https://img.shields.io/badge/Azure_Fundamentals_(AZ900)-green">
-    <p align="center"> 
-  <a href="https://www.credly.com/badges/87807bc5-d837-48fe-812f-8267b385d1d9">
-    <img src="https://images.credly.com/size/340x340/images/be8fcaeb-c769-4858-b567-ffaaa73ce8cf/image.png" alt="Microsoft Azure Fundamentals" width="90" height="90"/>
-  </a>
-    <a href="https://www.credly.com/badges/19c3f760-9975-4b42-a53a-56d3f94f8343">
-  <img src="https://images.credly.com/size/340x340/images/99289602-861e-4929-8277-773e63a2fa6f/image.png" alt="HashiCorp Certified Terraform Associate" width="90" height="90"/>
-</a>
-
-  </p>
-</div>
-    
-<div align="center">
-  <h3>📫 Let's Connect</h3>
-  <p>
-    <a href="https://linkedin.com/in/yossief-s">
-      <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-    </a>
-    
-  </p>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=maaclin&theme=tokyonight&hide_border=true" alt="GitHub Streak"/>
 </div>
 
-<div align="center">
-  
-<img src="https://komarev.com/ghpvc/?username=maaclin&color=brightgreen" alt="watching_count" />
-</div>
+---
+---
